@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Tool Utility Hub",
+  "description": "A simple utility website featuring a timer, a drawing board, and a calculator arranged vertically.",
+  "requestFramePermissions": []
+}
